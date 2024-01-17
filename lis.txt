@@ -1,0 +1,4 @@
+list nama makanan:
+1. Mie + telor
+2. Ayam
+3. Ikan Tongkol
